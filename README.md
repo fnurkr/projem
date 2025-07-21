@@ -1,0 +1,2 @@
+# projem
+githubdaki ilk projem
